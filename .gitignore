@@ -1,0 +1,5 @@
+# For macOS
+.DS_Store
+
+roms/
+gb_emu_odin
